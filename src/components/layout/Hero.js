@@ -5,7 +5,7 @@ import Right from '../icons/Right';
 export default function Hero(){
     return(
         <section className='hero'  >
-            <div className='py-12'>
+            <div className='py-12 pb-0'>
                 <h1 className='text-4xl font-semibold leading-12'>
                     Where Every Meal Feels Like Home&nbsp;  
                     <span className='text-primary'>
